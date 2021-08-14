@@ -41,6 +41,6 @@
 <a style="margin: 0.5em" href="https://www.linkedin.com/in/leardiniramoswellington/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a style="margin: 0.5em" href = "mailto:wellington-158@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 
-![Snake animation](https://github.com/rwellington/rwellingtonr/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rwellingtonr/rwellingtonr/blob/output/github-contribution-grid-snake.svg)
 
 </div>
