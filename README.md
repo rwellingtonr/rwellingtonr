@@ -8,9 +8,7 @@
       Fullstack Developer at <a href='https://hagens.com.br/' target='_blank'><strong>House of Hagens</strong></a>
   </p>
   <p style='font-size: 1.25rem;'>Degree in Eletrical Engineering ⚡</p>
- <img 
-         align='right' 
-         src='https://media.giphy.com/media/6ib6KPmkeAjDTxMxij/giphy.gif' 
+ <img    src='https://media.giphy.com/media/6ib6KPmkeAjDTxMxij/giphy.gif' 
          height='150'
          width='auto'/>
 
