@@ -23,7 +23,7 @@ const well = {
   architecture: ["DDD", "TDD", "Event Driven", "Microservices"],
   languages: ["pt-BR", "en"],
   stack: {
-    fontend: ["React", "Next", "Redux"],
+    fontend: ["React", "Next", "React Native"],
     backend: ["Node", "Fastify", "Express", "Nest"],
     test: ["Vitest", "Jest"]
   }
