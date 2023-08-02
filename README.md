@@ -4,7 +4,7 @@
 
 </h2>
 
-Hey there! I'm a full-on fullstack developer, rocking it in the world of web and mobile. You know, I'm all about React, React Native, and Node – those are my jam. Spent some quality time soaking up tech vibes in Germany, so I bring this cool mix of cultures and creativity to my projects, all while making sure everyone has an awesome user experience (UX).
+I'm a full-on fullstack developer, rocking it in the world of web and mobile. You know, I'm all about React, React Native, and Node – those are my jam. Spent some quality time soaking up tech vibes in Germany, so I bring this cool mix of cultures and creativity to my projects, all while making sure everyone has an awesome user experience (UX).
 
 I've got this thing for always learning, and staying up to date with the latest trends and tricks. My goal? Crafting functional and super engaging solutions that fit your crowd like a glove.
 
