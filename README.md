@@ -4,10 +4,13 @@
 
 </h2>
 
-  <p style='font-size: 1.25rem;'>
-      Fullstack Developer at <a href='https://hagens.com.br/' target='_blank'><strong>House of Hagens</strong></a>
-  </p>
-  <p style='font-size: 1.25rem;'>Degree in Eletrical Engineering ⚡</p>
+Hey there! I'm a full-on fullstack developer, rocking it in the world of web and mobile. You know, I'm all about React, React Native, and Node – those are my jam. Spent some quality time soaking up tech vibes in Germany, so I bring this cool mix of cultures and creativity to my projects, all while making sure everyone has an awesome user experience (UX).
+
+I've got this thing for always learning, and staying up to date with the latest trends and tricks. My goal? Crafting functional and super engaging solutions that fit your crowd like a glove.
+
+Ready to team up and create some seriously rad projects together?
+
+
  <img    src='https://media.giphy.com/media/6ib6KPmkeAjDTxMxij/giphy.gif' 
          height='150'
          width='auto'/>
@@ -23,7 +26,7 @@ const well = {
   architecture: ["DDD", "TDD", "Event Driven", "Microservices"],
   languages: ["pt-BR", "en"],
   stack: {
-    fontend: ["React", "Next", "React Native"],
+    frontend: ["React", "Next", "React Native", "Expo"],
     backend: ["Node", "Fastify", "Express", "Nest"],
     test: ["Vitest", "Jest"]
   }
