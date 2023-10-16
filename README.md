@@ -13,7 +13,7 @@ Ready to team up and create some seriously rad projects together?
 
  <img    src='https://media.giphy.com/media/6ib6KPmkeAjDTxMxij/giphy.gif' 
          height='150'
-         width='auto'/>
+         width='150'/>
 
   <!--Personal Information-->
  
