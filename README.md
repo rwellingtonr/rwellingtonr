@@ -22,8 +22,9 @@ const well = {
   pronouns: ["he", "him"],
   level: "Pleno",
   isFullStackDeveloper: true,
+  mainFocus: "Frontend",
   code: ["JavaScript", "Typescript"],
-  architecture: ["DDD", "TDD", "Event Driven", "Microservices"],
+  architecture: ["Islands Architecture", "Composition Pattern", "DDD", "TDD", "Microservices"],
   languages: ["pt-BR", "en"],
   stack: {
     frontend: ["React", "Next", "React Native", "Expo"],
