@@ -20,7 +20,7 @@ Ready to team up and create some seriously rad projects together?
 ```javascript
 const well = {
   pronouns: ["he", "him"],
-  level: "Pleno",
+  level: "Senior",
   isFullStackDeveloper: true,
   mainFocus: "Frontend",
   code: ["JavaScript", "Typescript"],
